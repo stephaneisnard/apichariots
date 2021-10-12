@@ -1,15 +1,15 @@
 {
-  "concerts": [
+  "liste_concerts": [
     { "id": 1, "groupe_id":3 ,"date": "2019/09/28" },
     { "id": 2, "groupe_id":1 ,"date": "2020/06/20" },
     { "id": 3, "groupe_id":2 ,"date": "2022/09/02" }
   ],
-  "groupes": [
+  "liste_groupes": [
     { "id": 1, "name": "THE FEARLESS FLYERS"},
     { "id": 2, "name": "SNARKY PUPPY"},
     { "id": 3, "name": "VULFPECK"}
   ],
-  "liste_commentaires": [
+  "commentaires": [
       { "id": 1, "concert_id":1, "texte": "Stylé !"},
       { "id": 2, "concert_id":3, "texte": "Un pur moment."},
       { "id": 3, "concert_id":1, "texte": "Joe Dart quel talent !"},
