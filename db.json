@@ -9,7 +9,7 @@
     { "id": 2, "name": "SNARKY PUPPY"},
     { "id": 3, "name": "VULFPECK"}
   ],
-  "commentaires": [
+  "liste_commentaires": [
       { "id": 1, "concert_id":1, "texte": "Stylé !"},
       { "id": 2, "concert_id":3, "texte": "Un pur moment."},
       { "id": 3, "concert_id":1, "texte": "Joe Dart quel talent !"},
